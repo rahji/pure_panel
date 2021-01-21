@@ -1,6 +1,6 @@
 # Hora Pure Front Panel
 
-The Hora Pure firmware for Radio Music is super fun! This repo contains the Eagle PCB files for a black+copper front panel that works well with the Pure firmware. The files are specifically made to be used with the OSH Park After Dark PCB service, and that's how the one pictured below was manufactured.
+The Hora Pure firmware for Radio Music is super fun! This repo contains the Eagle PCB files for a black+copper front panel that works well with the Pure firmware. The files are specifically made to be used with the OSH Park After Dark PCB service, and that's how the one pictured below was manufactured. If you plan to have them manufactured somewhere else, you'll probably have to verify that the layers will produce what you're expecting. OSH Park are a really excellent company and only require the Eagle brd file. You get three boards with every order, but it shouldn't be hard to find two other interested people to share with.
 
 Have fun!
 
